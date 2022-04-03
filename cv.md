@@ -2,6 +2,7 @@
 ![Image](/Images/DSC_2503.JPG "Image")
 
 ## _Contacts_
+
 | Platform | Link |
 | :------: | :------: |
 | Telegram | @ssl33pl3ss |
