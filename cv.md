@@ -5,6 +5,7 @@
 
 | Platform | Link |
 | :------: | :------: |
+
 | Telegram | @ssl33pl3ss |
 | Discord | ssl33pl3ss#3639 |
 | Discord (rs-school) | Gleb Ivanov (@ssl33pl3ss) |
